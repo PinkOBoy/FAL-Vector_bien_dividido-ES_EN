@@ -1,6 +1,14 @@
-# Name
-Ejercicio de algoritmos recursivos de FAL. El proyecto fue creado en Visual Studio 2022, aun así se puede descargar individualmente el archivo de name.cpp con la solución y el enunciado en name.pdf La solución fue dada por un profesor (mencionado en la solución) y ha sido editada y completada por mí para semejar lo que piden en un examen.
+# FAL - Vector "bien dividido" (ES)(EN)
+Ejercicio de algoritmos iterativos de FAL. El enunciado se resume en:
 
-Exercise of recurisve algorithms. The project was created with Visual Studio 2022. Although, you should be able to download individually the file name.cpp with the solution and the instructions of the exercise name.pdf (just available in Spanish). This solution was given by a professor (credits in the solution file) and I have edited and completed the solution so it looks more like an "exam solution".
+Dado un vector de enteros y una posición, decimos que un vector está "bien dividido" cuando el máximo valor entre el inicio y esa posición es menor estricto que el mínimo valor entre la posición y el final del vector.
+
+-------------------
+
+Exercise of iterative algorithms of FAL. The exercise instructions can be summarize in:
+
+Given a integer vector and a position, we say a vector is "well divided" when the maximum value between the beginning of the vector and the position is strictly lesser than the minimum value between the position and the end of the vector.
+
+------------------------
 
 2022-2023
